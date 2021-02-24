@@ -1,0 +1,20 @@
+
+
+{% extends "main/header.html" %}
+
+
+{%block content%}	
+	<br>	
+	{% for tut in tutorials %}
+		{% if forloop.first %}
+
+			{{tut.tutorial_title}}<br>
+			{{tut.tutorial_published}}
+			{{tut.tutorial_content|safe}}
+
+		{% endif %}
+	{% endfor %}
+
+
+{%endblock%}
+
