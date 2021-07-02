@@ -1,4 +1,4 @@
-# mysite
+# Django (Web-app)
 
 My very first attempt at learning Django when I had to work on web-development for an internship during one of the summer vacations during my masters. 
 
