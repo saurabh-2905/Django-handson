@@ -1,6 +1,6 @@
 # mysite
 
-My very first attempt at learning Django when I had to work on web-development for an internship during one of the summer vacations while my masters. 
+My very first attempt at learning Django when I had to work on web-development for an internship during one of the summer vacations during my masters. 
 
 It is a basic prototype website that helps one to understands the basics of Django Framwork and MVC model in general.
 
